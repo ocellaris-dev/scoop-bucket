@@ -8,7 +8,14 @@ Bucket for [Scoop](https://scoop.sh), the Windows command-line installer.
 How do I install these manifests?
 ---------------------------------
 
-To add this bucket, run `scoop bucket add ocellaris-dev https://github.com/ocellaris-dev/scoop-bucket`. To install, do `scoop install <manifest>`.
+To add this bucket, run
+```powershell
+scoop bucket add ocellaris-dev https://github.com/ocellaris-dev/scoop-bucket
+```
+To install, do
+```powershell
+scoop install <manifest>
+```
 
 How do I contribute new manifests?
 ----------------------------------
