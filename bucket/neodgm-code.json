@@ -1,10 +1,10 @@
 {
-    "version": "1.521",
+    "version": "1.530",
     "description": "Modern TrueType font based on an old-but-good Korean bitmap font.",
     "homepage": "https://neodgm.dalgona.dev/",
     "license": "OFL-1.1",
-    "url": "https://github.com/neodgm/neodgm/releases/download/v1.521/neodgm_code.ttf",
-    "hash": "930848a122844b7b5ca38589b3c1d355492c284ada64e22c8924ae691bef9eac",
+    "url": "https://github.com/neodgm/neodgm/releases/download/v1.530/neodgm_code.ttf",
+    "hash": "d7187cfaaab62e6ab07dcaeb0ce052fb12ac5aed9b2d0715f4cd4ae1d9edad01",
     "installer": {
         "script": [
             "$currentBuildNumber = [int] (Get-ItemProperty \"HKLM:\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\").CurrentBuildNumber",
