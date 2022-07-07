@@ -1,10 +1,10 @@
 {
-    "version": "1.011",
+    "version": "1.020",
     "description": "Proportional Korean TrueType font based on NeoDunggeunmo.",
     "homepage": "https://neodgm.dalgona.dev/neodgm_pro.html",
     "license": "OFL-1.1",
-    "url": "https://github.com/neodgm/neodgm-pro/releases/download/v1.011/neodgm_pro.ttf",
-    "hash": "290d9ac6288c729fac80d9af00837eeeaa51f9516610e737980e8711096a0446",
+    "url": "https://github.com/neodgm/neodgm-pro/releases/download/v1.020/NeoDunggeunmoPro-Regular.ttf",
+    "hash": "e4b974b1a378ef1962e3c72dfbcb7b7bba09f54dd53bf57889af300b2531b155",
     "installer": {
         "script": [
             "$currentBuildNumber = [int] (Get-ItemProperty \"HKLM:\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\").CurrentBuildNumber",
