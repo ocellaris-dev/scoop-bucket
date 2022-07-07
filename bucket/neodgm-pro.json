@@ -50,7 +50,7 @@
         "github": "https://github.com/neodgm/neodgm-pro"
     },
     "autoupdate": {
-        "url": "https://github.com/neodgm/neodgm-pro/releases/download/v$version/neodgm_pro.ttf",
+        "url": "https://github.com/neodgm/neodgm-pro/releases/download/v$version/NeoDunggeunmoPro-Regular.ttf",
         "hash": {
             "mode": "download"
         }
