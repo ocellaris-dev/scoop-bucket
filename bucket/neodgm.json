@@ -52,12 +52,7 @@
     "autoupdate": {
         "url": "https://github.com/neodgm/neodgm/releases/download/v$version/neodgm.ttf",
         "hash": {
-            "url": "https://github.com/neodgm/neodgm/releases/tag/v$version/",
-            "regex": [
-                "neodgm.ttf</b></a></td>",
-                "\\s<td><b>일반용</b></td>",
-                "\\s<td><code>([a-fA-F0-9]{64})"
-            ]
+            "mode": "download"
         }
     }
 }

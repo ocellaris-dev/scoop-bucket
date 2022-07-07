@@ -52,12 +52,7 @@
     "autoupdate": {
         "url": "https://github.com/neodgm/neodgm-pro/releases/download/v$version/neodgm_pro.ttf",
         "hash": {
-            "url": "https://github.com/neodgm/neodgm-pro/releases/tag/v$version/",
-            "regex": [
-                "neodgm_pro.ttf</b></a></td>",
-                "\\s<td><b>일반용</b></td>",
-                "\\s<td><code>([a-fA-F0-9]{64})"
-            ]
+            "mode": "download"
         }
     }
 }
